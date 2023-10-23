@@ -1,0 +1,11 @@
+com\cg\Application.class
+com\cg\entity\Book.class
+com\cg\dao\BookDao.class
+com\cg\entity\Author.class
+com\cg\service\BookService.class
+com\cg\dao\AuthorDao.class
+com\cg\controller\AuthorController.class
+com\cg\repository\AuthorRepository.class
+com\cg\service\AuthorService.class
+com\cg\repository\BookRepository.class
+com\cg\controller\BookController.class
